@@ -25,7 +25,7 @@ System.out.println(" ");
 int year2 = Integer.parseInt(year1);
 int year3 = year2-year;//conver string to int 
 System.out.println("You age is "+year3);
-int month2 = Integer.parseInt(month1);
+int month2 = Integer.parseInt(month1); 
 int month3 = month2-month;//conver string to int 
 System.out.println("You life in month or your month :"+month3);
 int day2 = Integer.parseInt(day1);
